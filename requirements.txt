@@ -4,3 +4,4 @@ python-dotenv==1.2.4
 phonenumbers==9.0.41
 waitress==3.0.2
 pytest==9.1.1
+gTTS==2.5.4
