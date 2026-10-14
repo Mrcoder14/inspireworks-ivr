@@ -1,0 +1,29 @@
+# Private environment files
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+.venv/
+venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local logs
+*.log
+
+# Local editor / operating system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# The supplied assignment contains credentials
+FDE Technical Assignment*.pdf
+
+# Local archives
+*.zip
